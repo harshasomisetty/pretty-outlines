@@ -13,7 +13,6 @@
 (require 'dash)
 (require 'dash-functional)
 (require 'outshine)
-(require 's)
 
 ;;;; Config
 
